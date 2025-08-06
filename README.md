@@ -13,3 +13,11 @@ I plan to contribute back to AmFOSS by actively participating in projects, compl
 ## **What are your fields of interest, and how do you plan on working on them?**
 
 My field of interest is entirely in computers, especially in Python, web development, and blockchain technology. I want to explore blockchain in depth and understand how it works, with the goal of eventually integrating it into FOSS projects. While I’m still new to blockchain, I’m eager to gain knowledge and apply it to real-world problems. Joining AmFOSS is one of my top priorities because it provides the perfect environment to learn, collaborate, and work on impactful projects. On a personal note, I’m also committed to improving my physical fitness over time, as I believe in growing both technically and personally.
+
+# **TASK STATUS**
+
+My statistics is as shown :
+
+| Task List | Description | Status |
+| :-:       | :-:         | :-:    |
+| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
