@@ -20,4 +20,4 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| Task-00   |https://github.com/Madhav-Mst/amfoss-tasks/blob/6b41c088bea0fec1d94569cee7af371f31911fa2/Task-00| Completed |
+| Task-00   |Task-00| Completed |
